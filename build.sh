@@ -1,0 +1,1 @@
+clang -o dumb src/main.c
